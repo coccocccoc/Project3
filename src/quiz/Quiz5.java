@@ -13,6 +13,7 @@ public class Quiz5 {
 		System.out.println(age <= 40);
 		System.out.println(age == 40);
 		System.out.println(age != 40);
+		
 	}
 
 }
